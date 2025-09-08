@@ -48,5 +48,3 @@ Modernizar e tornar mais intuitiva a interface do sistema, melhorando a experiê
 - Considere implementar testes automatizados para garantir funcionamento das novas telas.
 
 ---
-
-> **Dica:** Se quiser, posso gerar exemplos de código ou protótipos visuais para cada etapa.
