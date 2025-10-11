@@ -1,12 +1,1 @@
-<div class="alert alert-success" role="alert">
-  Login realizado com sucesso!
-</div>
-<div class="alert alert-danger" role="alert">
-  Usuário ou senha incorretos.
-</div>
-<!-- Loader exemplo -->
-<div class="text-center my-4">
-  <div class="spinner-border text-primary" role="status">
-    <span class="visually-hidden">Carregando...</span>
-  </div>
-</div>
+file:///C:/ADS/Projetos/login.html#
