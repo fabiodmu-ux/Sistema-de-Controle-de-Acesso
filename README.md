@@ -4,7 +4,7 @@ Projeto: [Sistema de Controle de Acesso](https://github.com/fabiodmu-ux/Sistema-
 ## Objetivo
 Modernizar e tornar mais intuitiva a interface do sistema, melhorando a experiência do usuário, acessibilidade e responsividade.
 # Plano de Melhoria da Interface do Usuário
-Projeto: [Sistema de Controle de Acesso](https://github.com/fabiodmu-ux/Sistema-de-Controle-de-Acesso)
+Projeto: [Sistema de Controle de Acesso](file:///C:/Users/fabio/Desktop/ADS/Controle/login.html)
 
 ## Objetivo
 Modernizar e tornar mais intuitiva a interface do sistema, melhorando a experiência do usuário, acessibilidade e responsividade.
