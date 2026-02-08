@@ -3,19 +3,19 @@
 Este é um projeto de front-end moderno para uma tela de autenticação, desenvolvido com foco em UX (User Experience) e Segurança Visual. 
 A interface simula um sistema de biometria e segurança cibernética.
 
-##🚀 **Funcionalidades**
+## 🚀 **Funcionalidades**
 
 **Tema Adaptativo**: Suporte nativo para Modo Claro (Light) e Modo Escuro (Dark).
 
 **Feedback em Tempo Real:** Loader de processamento (spinner) e alertas de erro/sucesso.
 
-Design Responsivo: Adaptado para dispositivos móveis, tablets e desktops usando Bootstrap 5.
+**Design Responsivo:** Adaptado para dispositivos móveis, tablets e desktops usando Bootstrap 5.
 
-Persistência de Preferência: O sistema lembra a escolha de tema do usuário através do localStorage.
+**Persistência de Preferência:** O sistema lembra a escolha de tema do usuário através do localStorage.
 
-Simulação de Autenticação: Lógica de validação via JavaScript para demonstrar o fluxo de sucesso e erro.
+**Simulação de Autenticação:** Lógica de validação via JavaScript para demonstrar o fluxo de sucesso e erro.
 
-🛠️ Tecnologias Utilizadas
+## 🛠️ Tecnologias Utilizadas
 HTML5: Estruturação semântica.
 
 CSS3: Estilização personalizada e efeitos de transparência.
