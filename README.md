@@ -1,12 +1,13 @@
-##🛡️ **0Sistema de Controle de Acesso**
+#🛡️ **0Sistema de Controle de Acesso**
 
 Este é um projeto de front-end moderno para uma tela de autenticação, desenvolvido com foco em UX (User Experience) e Segurança Visual. 
 A interface simula um sistema de biometria e segurança cibernética.
 
-🚀 Funcionalidades
-Tema Adaptativo: Suporte nativo para Modo Claro (Light) e Modo Escuro (Dark).
+🚀 **Funcionalidades**
 
-Feedback em Tempo Real: Loader de processamento (spinner) e alertas de erro/sucesso.
+**Tema Adaptativo**: Suporte nativo para Modo Claro (Light) e Modo Escuro (Dark).
+
+**Feedback em Tempo Real:** Loader de processamento (spinner) e alertas de erro/sucesso.
 
 Design Responsivo: Adaptado para dispositivos móveis, tablets e desktops usando Bootstrap 5.
 
