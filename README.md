@@ -4,7 +4,7 @@ Este é um projeto de front-end moderno para uma tela de autenticação, desenvo
 
 A interface simula um sistema de biometria e segurança cibernética.
 
-!(imagem)
+!(imagem.JPG)
 
 ## 🚀 **Funcionalidades**
 
