@@ -4,7 +4,7 @@ Este é um projeto de front-end moderno para uma tela de autenticação, desenvo
 
 A interface simula um sistema de biometria e segurança cibernética.
 
-[Texto Alternativo](C:\Users\fabio\Desktop\ADS\Controle)
+(C:\Users\fabio\Desktop\ADS\Controle)
 
 ## 🚀 **Funcionalidades**
 
