@@ -42,6 +42,7 @@ Clone este repositório:
 
 Bash
 [git clone https]:(https://github.com/fabiodmu-ux/Sistema-de-Controle-de-Acesso.git)
+
 Abra a pasta do projeto no VS Code.
 
 Utilize a extensão Live Server para rodar o arquivo login.html.
