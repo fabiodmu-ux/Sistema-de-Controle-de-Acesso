@@ -35,8 +35,11 @@ A interface simula um sistema de biometria e segurança cibernética.
 ## 📂 Estrutura do Projeto
 
 **Plaintext**
+
 ├── index.html       # Dashboard (Página de destino após login)
+
 ├── login.html       # Tela de Login principal
+
 └── README.md        # Documentação do projeto
 
 ## ⚙️ Como Rodar o Projeto
