@@ -1,7 +1,10 @@
 # 🛡️ **Sistema de Controle de Acesso**
 
 Este é um projeto de front-end moderno para uma tela de autenticação, desenvolvido com foco em UX (User Experience) e Segurança Visual. 
+
 A interface simula um sistema de biometria e segurança cibernética.
+
+![Texto Alternativo](C:\Users\fabio\Desktop\ADS\Controle)
 
 ## 🚀 **Funcionalidades**
 
