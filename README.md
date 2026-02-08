@@ -33,7 +33,7 @@ A interface simula um sistema de biometria e segurança cibernética.
 ├── login.html       # Tela de Login principal
 └── README.md        # Documentação do projeto
 
-##⚙️ Como Rodar o Projeto
+## ⚙️ Como Rodar o Projeto
 
 Clone este repositório:
 
@@ -45,5 +45,6 @@ Utilize a extensão Live Server para rodar o arquivo login.html.
 
 Para testar o fluxo de erro, utilize a senha 123. Para sucesso, utilize qualquer outra combinação.
 
-📝 Licença
-Este projeto foi desenvolvido para fins de estudo e prática acadêmica (ADS). Sinta-se à vontade para clonar e aprimorar.
+📝 ## **Licença**
+Este projeto foi desenvolvido para fins de estudo e prática acadêmica (ADS). 
+Sinta-se à vontade para clonar e aprimorar.
