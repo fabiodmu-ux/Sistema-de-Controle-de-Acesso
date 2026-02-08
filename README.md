@@ -16,7 +16,7 @@ A interface simula um sistema de biometria e segurança cibernética.
 **Simulação de Autenticação:** Lógica de validação via JavaScript para demonstrar o fluxo de sucesso e erro.
 
 ## 🛠️ Tecnologias Utilizadas
-HTML5: Estruturação semântica.
+*HTML5:* Estruturação semântica.
 
 *CSS3:* Estilização personalizada e efeitos de transparência.
 
@@ -27,16 +27,18 @@ HTML5: Estruturação semântica.
 *JavaScript (Vanilla):* Lógica de troca de tema e manipulação do DOM.
 
 ## 📂 Estrutura do Projeto
+
 **Plaintext**
 ├── index.html       # Dashboard (Página de destino após login)
 ├── login.html       # Tela de Login principal
 └── README.md        # Documentação do projeto
 
 ##⚙️ Como Rodar o Projeto
+
 Clone este repositório:
 
 Bash
-[git clone https]:(//github.com/seu-usuario/seu-repositorio.git)
+[git clone https]:(https://github.com/fabiodmu-ux/Sistema-de-Controle-de-Acesso.git)
 Abra a pasta do projeto no VS Code.
 
 Utilize a extensão Live Server para rodar o arquivo login.html.
