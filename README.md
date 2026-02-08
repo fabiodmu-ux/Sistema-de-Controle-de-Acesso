@@ -1,5 +1,6 @@
-🛡️ Sistema de Controle de Acesso
-Este é um projeto de front-end moderno para uma tela de autenticação, desenvolvido com foco em UX (User Experience) e Segurança Visual. A interface simula um sistema de biometria e segurança cibernética.
+##🛡️ Sistema de Controle de Acesso
+Este é um projeto de front-end moderno para uma tela de autenticação, desenvolvido com foco em UX (User Experience) e Segurança Visual. 
+A interface simula um sistema de biometria e segurança cibernética.
 
 🚀 Funcionalidades
 Tema Adaptativo: Suporte nativo para Modo Claro (Light) e Modo Escuro (Dark).
